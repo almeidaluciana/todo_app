@@ -42,4 +42,4 @@ Abra o projeto no VS Code:
 code .
 ```
 
-Execute o aplicativo com **Ctrl + F5**, você deverá escolher em qual dispositivo deseja rodar o projeto (emulador, web ou dispositivo físico).
+Execute o aplicativo com **Ctrl + F5**, você deverá escolher em qual dispositivo deseja rodar o projeto (emulador ou dispositivo físico).
